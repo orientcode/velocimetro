@@ -4,4 +4,4 @@ O velocímetro é um item muito importante nos veículos, ele serve para mostrar
 
 Aqui você vai aprender a criar um objeto de medição visual utilizando o arduino, potenciômetro e servomotor! 
 
-![Velocímetro](https://raw.githubusercontent.com/orientcode/botao/master/botão.png)
+![Velocímetro](https://raw.githubusercontent.com/orientcode/velocimetro/master/potenciometro_servoMotor.png)
